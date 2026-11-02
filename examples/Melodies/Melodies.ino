@@ -1,5 +1,9 @@
-// AlashBuzzer: готовые мелодии. Ода к радости, Звёздочка, Happy Birthday, Jingle Bells и сигналы
-// запуска, успеха, ошибки, тревоги. Мелодия играет сама, пока вы вызываете update() в loop().
+// [ru] AlashBuzzer: готовые мелодии. Ода к радости, Звёздочка, Happy Birthday, Jingle Bells и сигналы
+//      запуска, успеха, ошибки, тревоги. Мелодия играет сама, пока вы вызываете update() в loop().
+// [kk] AlashBuzzer: дайын әуендер. «Қуаныш одасы», «Жұлдызша», Happy Birthday, Jingle Bells және іске қосу,
+//      сәттілік, қате, дабыл сигналдары. Әуен loop() ішінде update() шақырып тұрсаңыз өзі ойнайды.
+// [en] AlashBuzzer: ready-made tunes. Ode to Joy, Twinkle, Happy Birthday, Jingle Bells and the signals
+//      for start, success, error, alarm. The tune plays by itself while you call update() in loop().
 #include <AlashBuzzer.h>
 
 AlashBuzzer buzzer(9);

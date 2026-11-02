@@ -1,6 +1,6 @@
 {
   "name": "AlashBuzzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy buzzer library: beeps, series, melodies, RTTTL, built-in tunes, non-blocking, clear tips (ru/kk/en), no dependencies",
   "keywords": "buzzer, tone, melody, RTTTL, beep, speaker, music, alarm",
   "repository": {
